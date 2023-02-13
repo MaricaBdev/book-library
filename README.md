@@ -6,4 +6,4 @@
 
 This app is one of the first app project I ever done. It's using Vanila JavaScript and Local Storage to so rating and store books that you've read.
 
-Thank you for support 🤝
+Thank you 🤝
